@@ -73,7 +73,7 @@
 
 <p align="center">
     <a href="https://github.com/Lakhan9525/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lakhan Yadav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
