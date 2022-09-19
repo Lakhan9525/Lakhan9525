@@ -27,8 +27,8 @@
 
 
 - 📫 How to reach me **lakhanraj987@gmail.com**
-- <br/>
-[Linkedin](https://www.linkedin.com/in/lakhan-kumar-yadav-379672180/) 
+
+-[Linkedin](https://www.linkedin.com/in/lakhan-kumar-yadav-379672180/) 
 
 <br/>
 <br/>
