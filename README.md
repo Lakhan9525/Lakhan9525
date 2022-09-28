@@ -26,18 +26,6 @@
 
 <br/>
 <br/>
-
-
-
-
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
-
-<img alt="Lakhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakhan9525&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-
-<br/>
-<br/>
-
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -74,6 +62,21 @@
 <a href="https://github.com/Lakhan9525"><img src="https://img.shields.io/github/followers/Lakhan9525?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 <br/>
+
+
+
+
+
+
+<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+
+<img alt="Lakhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakhan9525&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+
+<br/>
+<br/>
+
+
 
 
 
