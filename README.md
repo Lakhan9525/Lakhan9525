@@ -74,7 +74,16 @@
 
 <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Lakhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakhan9525&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<!-- <img alt="Lakhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Lakhan9525&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />  -->
+
+
+<p dir="auto" align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/638fed1cdebf2f2d141fcc69420394685cd4dddfc529228fb8db0f39ce607101/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d526f6a616c696e693138267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365">
+  
+    
+<img align="center" alt="Lakhan yadav activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Lakhan9525&theme=radical&hide_border=true&bg_color=030113&color=9e4c98&line=9e4c98&point=403d3d"/>
+
+
 
 
 <br/>
